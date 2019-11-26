@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Josefin+Slab&display=swap');  
+
+body {
+	text-align: center;
+	color: #fff;
+	background-image: url("https://i.imgur.com/jvMoWqN.jpg");
+	background-size: cover;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Josefin Slab', serif;
+}
+
+h1 {
+	background-color: #ffb6c1;
+	padding:5px;
+	color:white;
+	font-family:'Josefin Sans',sans-serif;
+}
+
+h2 {
+		font-style:italic;
+		font-family: : 'Josefin Slab',serif,sans-serif;
+	}
+
+a:link{
+	color:white;
+	background-color: transparent;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
