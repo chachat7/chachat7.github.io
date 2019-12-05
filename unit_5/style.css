@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Josefin+Slab&display=swap');  
+
+body {
+	text-align:center;
+	background-color:#ffffff;
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Josefin Slab', serif 
+}
+
+header{
+	background-color:#ffed74;
+	border:1px black solid;
+	padding:20px;
+}
+
+
+h1,header {
+	background-color: #ffed74;
+	padding:10px;
+	font-family:'Josefin Sans',sans-serif;
+	color:white;
+	font-size:45px;
+}
+h2,header { 
+	border-bottom: 2px solid pink ;
+	font-size:10px;
+	font-style: italic;
+	line-height: 1.78571429em;
+	font-family: 'Josefin Sans',sans-serif;
+	color: #ffb6c1 ;
+}
+
+nav a {
+	background-color: #e8c66a;
+	border:1px black solid;
+	display: block;
+	width: 180px;
+	float: left;
+	padding: 10px 0;
+	
+}
+
+a {
+	color:#db7093;
+	text-decoration: none;
+	padding-bottom: 10px;
+	font-size:20px;
+}
+
+
+
+
+
+img,section{
+	display: block;
+	margin: auto;
+	margin-right: auto;
+	background-color: #ffe2b8;
+	padding:20px;
+	
+}
+
+aside{
+	background-color: #ffc675;
+	border:1px black solid;
+	padding: 20px;
+}
+
+h3,p {
+	background-color: #e89c6c;
+	font-size:20px;
+	font-color: #ba55d3;
+	text-align:center;
+	font-style: italic;
+	padding:20px,30px,20px,30px;
+}
+
+footer{
+
+	clear:both;
+	background-color:#ff957e;
+	padding:20px;
+	border:1px solid black;
+}
+
+
+
+
+
+
+
+
